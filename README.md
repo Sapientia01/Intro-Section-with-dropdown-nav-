@@ -1,7 +1,7 @@
 # Frontend Mentor - Intro section with dropdown navigation
 
 ![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
- is don
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
@@ -24,4 +24,4 @@ Your users should be able to:
 
 
 
-[View the page] (https://intro-section-bysapientia.netlify.app/)1
+[View the page] (https://intro-section-bysapientia.netlify.app/)

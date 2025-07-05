@@ -10,11 +10,10 @@
 
 ## The challenge
 
-Your challenge is to build out this intro section with dropdown navigation and get it looking as close to the design as possible.
+The challenge is to build out this intro section with dropdown navigation and get it looking as close to the design as possible.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-Your users should be able to:
+Users can:
 
 - View the relevant dropdown menus on desktop and mobile when interacting with the navigation links
 - View the optimal layout for the content depending on their device's screen size
@@ -22,4 +21,4 @@ Your users should be able to:
 
 
 
-[View the page] (https://intro-section-bysapientia.netlify.app/)
+[View the page](https://intro-section-bysapientia.netlify.app/)
